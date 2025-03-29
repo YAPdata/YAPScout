@@ -1,0 +1,14 @@
+/* Hide Google Translate elements */
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+
+body {
+  top: 0px !important;
+}
+
+.goog-te-gadget,
+.goog-logo-link,
+#google_translate_element {
+  display: none !important;
+}
